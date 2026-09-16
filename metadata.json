@@ -1,0 +1,8 @@
+{
+  "name": "Remix CGUI Hybrid Physics Engine",
+  "description": "8D Complexified Gravity (CGUI) simulator: Barnes-Hut O(N log N) gravity coupled with emergent SU(3) color confinement from non-Abelian geometry, U(1) electromagnetism, thermodynamic conservation tracking, and the 10 empirical falsification tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
